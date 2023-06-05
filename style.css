@@ -16,6 +16,10 @@ body {
     text-align: center;
     background-color: transparent; 
   }
+
+  .container {
+    width: 950px;
+  }
   
   .description {
     white-space: pre-wrap;
